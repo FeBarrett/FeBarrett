@@ -1,8 +1,8 @@
 ## Hello there, I'm Felippe and i'm here to show all my progress!
 <div align="center">
   <a href="https://github.com/FeBarrett">
-  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=febarrett&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febarrett&layout=compact&langs_count=7&theme=red"/>
+  <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=febarrett&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febarrett&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
